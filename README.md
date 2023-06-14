@@ -33,15 +33,14 @@
 
 ![Screen Shot](https://raeefofficial.netlify.app/static/media/dalle.d95c84a81bba589bda8a.png)
 
-Features :
-Tailwind design
-Tailwind animations and effects
-Full responsiveness
-Credential authentication
-api authentication
-Image upload using Cloudinary CDN
-Page loading state
-OpenAi API
+##Features :
+* [Tailwind design]()
+* [Tailwind animations and effects]()
+* [Full responsiveness]()
+* [Credential authentication]()
+* [api authentication]()
+* [Image upload using Cloudinary CDN]()
+* [OpenAi API]()
 
 
 ## Built With
